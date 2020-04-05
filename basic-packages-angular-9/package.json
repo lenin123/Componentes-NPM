@@ -4,9 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "node index-dev.js",
+    "prod": "node index-prod.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "pacotes básico angular",
+    "básico angular 9",
+    "componentes angular 9"
+  ],
   "author": "Lênin <lenin_muller@uol.com.br>",
   "license": "MIT",
   "dependencies": {
